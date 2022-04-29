@@ -59,7 +59,7 @@ netcdf:
 
 nccmp:
   build: YES
-  version: 1.8.9.0
+  version: 1.9.1.0
 
 nco:
   build: YES
@@ -224,15 +224,15 @@ prod_util:
 
 grib_util:
   build: YES
-  version: v1.2.3
-  install_as: 1.2.3
+  version: v1.2.4
+  install_as: 1.2.4
   openmp: ON
   is_nceplib: YES
 
 ncio:
   build: YES
-  version: v1.0.0
-  install_as: 1.0.0
+  version: v1.1.0
+  install_as: 1.1.0
   is_nceplib: YES
 
 boost:
